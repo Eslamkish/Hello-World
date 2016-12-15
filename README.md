@@ -1,3 +1,3 @@
 # Hello-World
 
-hello this is my first shot on GitHub.
+Hello Hello User
